@@ -11,13 +11,11 @@
 
 
 
-<!-- ===== GITHUB STATS CARDS ===== -->
-
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Activity Graph
+## 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyonight&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=38bdf8&custom_title=My%20Contribution%20Graph" width="100%"/>
 </p>
 
 
