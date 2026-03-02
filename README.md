@@ -12,10 +12,15 @@
 
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📊 GitHub Activity Graph
+## 📈 Contribution Timeline
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=0f172a&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true&area_color=38bdf8&custom_title=My%20Contribution%20Graph" width="100%"/>
+  <!-- Light theme for light mode users -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Activity%20Graph%20(Dark%20Mode)">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=minimal&hide_border=true&area=true&custom_title=My%20Activity%20Graph%20(Light%20Mode)">
+    <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyo-night&hide_border=true&area=true">
+  </picture>
 </p>
 
 
