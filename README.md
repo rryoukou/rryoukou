@@ -1,16 +1,15 @@
-<!-- ===== BANNER ===== -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Laravel+Developer;React+JS+Enthusiast;Future+Software+Engineer" />
 </p>
 
 ---
 
-## 💫 About Me
+ 💫 About Me
 
 - 🎓 Student & Future Software Engineer  
 - 💻 Focused on **Laravel & React JS**  
@@ -19,7 +18,7 @@
 
 ---
 
-## 🛠️ Technology Stack
+ 🛠️ Technology Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -33,7 +32,7 @@
 
 ---
 
-## 🚀 Featured Projects
+ 🚀 Featured Projects
 
 🔹 **Library App** – Laravel CRUD + Wishlist System  
 🔹 **Movie Web** – React Movie Search Website  
@@ -54,7 +53,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+ 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -62,7 +61,7 @@
 
 ---
 
-## 📫 Connect With Me
+ 📫 Connect With Me
 
 <p align="center">
 <a href="https://github.com/rryoukou">
