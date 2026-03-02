@@ -4,19 +4,16 @@
 </p>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 3D Activity Visualization
+## 🌊 Contribution Wave
 
 <p align="center">
-  <!-- Main Graph with Shadow Effect -->
-  <div style="filter: drop-shadow(0 0 10px #00bfff);">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyonight&hide_border=true&area=true&radius=10&custom_title=3D%20Activity%20Map" width="100%" />
-  </div>
+  <!-- Graph with Animation Effect -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" />
 </p>
 
-<!-- Mini Activity Cards -->
+<!-- Loading Animation -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rryoukou&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rryoukou&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Commits+flowing...;Contributions+streaming...;Code+evolving..." />
 </p>
 
 <!-- ===== TECH STACK WITH ICONS ===== -->
