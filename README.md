@@ -1,6 +1,6 @@
 <!-- ===== ANIMATED HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50&reversal=false" />
 </p>
 
 <!-- ===== ACTIVITY GRAPH (OPSI 6) ===== -->
