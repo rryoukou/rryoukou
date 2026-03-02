@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rryoukou&hide_border=true&background=0D1117&ring=00BFFF&fire=00FFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" />
+</p>
