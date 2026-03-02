@@ -17,5 +17,5 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rryoukou&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rryoukou&hide_border=true&background=0D1117&ring=00BFFF&fire=00FFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E" />
 </p>
