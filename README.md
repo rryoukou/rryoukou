@@ -3,16 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryoukou;Laravel+Developer;React+JS+Enthusiast;Aspiring+Software+Engineer;Always+Learning+New+Things" />
-</p>
-
-<!-- ===== SPACER ===== -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
 <!-- ===== ACTIVITY GRAPH (OPSI 6) ===== -->
 ## 🌊 Contribution Wave
 
