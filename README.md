@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Halo, Saya Ryoukou Arya Nugroho
 
-<!--
-**rryoukou/rryoukou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pelajar & Calon Web Developer  
+💻 Fokus: Laravel, React JS, HTML, CSS  
+🚀 Sedang mencari pengalaman magang
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Laravel
+- React JS
+- PHP
+- MySQL
+- Git & GitHub
+- HTML & CSS
+
+---
+
+## 📌 Project Saya
+- Football Shopping
+- Movie Web (React)
+- Library App (Laravel)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=rryoukou&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=rryoukou&theme=tokyonight)
