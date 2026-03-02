@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Commits+flowing...;Contributions+streaming...;Code+evolving...;Always+building..." />
 </p>
 
-## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rryoukou&hide_border=true&background=0D1117&ring=00BFFF&fire=00FFFF&currStreakLabel=00BFFF&sideNums=FFFFFF&sideLabels=00BFFF&dates=8B949E" />
