@@ -1,1 +1,15 @@
-<!-- ===== ANIMATED HEADER ===== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50&reversal=false" /> </p> <!-- ===== ACTIVITY GRAPH (OPSI 6) ===== --> ## 🌊 Contribution Wave <p align="center"> <!-- Graph with Animation Effect --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" /> </p> <!-- Loading Animation --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Commits+flowing...;Contributions+streaming...;Code+evolving...;Always+building..." /> </p> <!-- ===== TECH STACK WITH ICONS ===== --> ## 🛠️ Tech Stack <p align="center"> <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" /> </p> <!-- ===== DYNAMIC FOOTER ===== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20See%20you%20again%20👋&fontSize=20&fontColor=fff&animation=twinkling" /> </p>
+<!-- ===== ACTIVITY GRAPH ===== -->
+## 🌊 Contribution Wave
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Commits+flowing...;Contributions+streaming...;Code+evolving...;Always+building..." />
+</p>
+
+<!-- ===== TECH STACK WITH ICONS ===== -->
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" />
+</p>
