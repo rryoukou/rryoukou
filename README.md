@@ -4,10 +4,19 @@
 </p>
 
 <!-- ===== ACTIVITY GRAPH ===== -->
-## ⚡ Live Activity Graph
+## 📈 3D Activity Visualization
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=high-contrast&bg_color=0d1117&color=00ff00&line=00ffff&point=ffff00&area=true&hide_border=true&area_color=00ff00&title_color=ff00ff&custom_title=🔥%20Ryoukou's%20Contribution%20Journey" width="100%" />
+  <!-- Main Graph with Shadow Effect -->
+  <div style="filter: drop-shadow(0 0 10px #00bfff);">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyonight&hide_border=true&area=true&radius=10&custom_title=3D%20Activity%20Map" width="100%" />
+  </div>
+</p>
+
+<!-- Mini Activity Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rryoukou&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rryoukou&theme=tokyonight" />
 </p>
 
 <!-- ===== TECH STACK WITH ICONS ===== -->
