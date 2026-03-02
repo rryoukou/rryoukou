@@ -20,14 +20,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=tokyonight&hide_border=true&area=true" />
 </p>
 
-<!-- ===== 3D CONTRIBUTION GRASS ===== -->
-## 🌱 My GitHub Contributions
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rryoukou&theme=tokyonight" />
-</p>
-
-
 
 <!-- ===== CONNECT WITH ME ===== -->
 ## 🤝 Connect With Me
@@ -60,13 +52,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!%20See%20you%20again%20👋&fontSize=20&fontColor=fff&animation=twinkling" />
 </p>
-
-<!-- ===== HIDDEN COMMENT WITH TIPS ===== -->
-<!-- 
-🔥 Tips untuk memaksimalkan profile:
-1. Ganti 'yourusername' dengan username asli di semua link
-2. Update 'project1' dan 'project2' dengan repo favorit
-3. Tambahkan social media links yang aktif
-4. Customize warna sesuai selera
-5. Pastikan semua badge link mengarah ke profile yang benar
--->
