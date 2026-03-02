@@ -32,12 +32,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Library App** – Laravel CRUD + Wishlist System  
-🔹 **Movie Web** – React Movie Search Website  
-🔹 **Football Shopping** – HTML E-Commerce Website  
-
 ---
 
 ## 📊 GitHub Stats
