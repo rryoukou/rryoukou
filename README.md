@@ -5,8 +5,6 @@
 
 <!-- ===== TECH STACK WITH ICONS ===== -->
 ## 🛠️ Tech Stack & Tools
-
-### 💻 Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" />
 </p>
