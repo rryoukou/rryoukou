@@ -13,3 +13,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" />
 </p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rryoukou&theme=radical&hide_border=true" />
+</p>
