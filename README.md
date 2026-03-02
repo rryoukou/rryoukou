@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,html,css,bootstrap,tailwind" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" />
@@ -9,8 +12,4 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rryoukou&hide_border=true&background=0D1117&ring=00BFFF&fire=00FFFF&currStreakLabel=00BFFF&sideLabels=00BFFF&dates=8B949E" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,php,js,mysql,git,github,vscode,postman,html,css,bootstrap,tailwind" />
 </p>
