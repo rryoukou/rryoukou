@@ -1,19 +1,22 @@
-<!-- ===== ANIMATED HEADER ===== -->
+<!-- ===== HEADER GRADIENT BIRU ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50&reversal=false" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0f2027,50:2c5364,100:0f2027&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=61dafb&animation=twinkling&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
-<!-- ===== ACTIVITY GRAPH (OPSI 6) ===== -->
-## 🌊 Contribution Wave
-
+<!-- ===== SPACER BIRU ===== -->
 <p align="center">
-  <!-- Graph with Animation Effect -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 </p>
 
-<!-- Loading Animation -->
+<!-- ===== ACTIVITY GRAPH BIRU ===== -->
+## 🌊 Development Flow
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=435&lines=Commits+flowing...;Contributions+streaming...;Code+evolving...;Always+building..." />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=0f2027&color=61dafb&line=2c5364&point=61dafb&area=true&hide_border=true&area_color=2c5364&custom_title=🌊%20Coding%20Journey" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=61DAFB&center=true&vCenter=true&width=435&lines=%3E_+Building+the+future...;%3E_+One+commit+at+a+time...;%3E_+Code.+Create.+Innovate." />
 </p>
 
 <!-- ===== TECH STACK WITH ICONS ===== -->
