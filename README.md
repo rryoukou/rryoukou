@@ -3,25 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
-<!-- ===== ACTIVITY OVERVIEW ===== -->
-## 📊 Activity Overview
+<!-- ===== ACTIVITY GRAPH ===== -->
+## ⚡ Live Activity Graph
 
 <p align="center">
-  <!-- Activity Stats Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rryoukou&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=high-contrast&bg_color=0d1117&color=00ff00&line=00ffff&point=ffff00&area=true&hide_border=true&area_color=00ff00&title_color=ff00ff&custom_title=🔥%20Ryoukou's%20Contribution%20Journey" width="100%" />
 </p>
-
-<!-- Animated Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=github-compact&hide_border=true&area=true&custom_title=Recent%20Activity" width="95%"/>
-</p>
-
-<!-- Commit Stats Animation -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rryoukou&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rryoukou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
 <!-- ===== TECH STACK WITH ICONS ===== -->
 ## 🛠️ Tech Stack 
 <p align="center">
