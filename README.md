@@ -3,20 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ryoukou%20Arya%20Nugroho&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Future%20Software%20Engineer%20|%20Web%20Developer&descAlignY=55&descAlign=50" />
 </p>
 
-
-<!-- ===== WELCOME MESSAGE ===== -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  Welcome to my GitHub Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h3>
-      
-
-
-    </td>
-  </tr>
-</table>
-
 <!-- ===== TECH STACK WITH ICONS ===== -->
 ## 🛠️ Tech Stack & Tools
 
