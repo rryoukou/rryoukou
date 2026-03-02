@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Development%20Flow" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=react-dark&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true&area_color=61dafb&custom_title=🌊%20Ryoukou%20" width="100%" />
 </p>
 
 <p align="center">
