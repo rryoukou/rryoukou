@@ -19,10 +19,4 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=rryoukou&hide_border=true&background=0D0E12&ring=EF4444&fire=F59E0B&currStreakLabel=EF4444&sideNums=FFFFFF&sideLabels=F59E0B&dates=8B949E" 
-  />
-</p>
 
----
