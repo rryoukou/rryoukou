@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=github-dark&bg_color=0D0E12&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true&area_color=7C3AED&custom_title=%E2%9E%B0%20Uchiha%20%20Graph%20Data%20%E2%9E%B0" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rryoukou&theme=github-dark&bg_color=0D0E12&color=A855F7&line=7C3AED&point=FFFFFF&area=true&hide_border=true&area_color=7C3AED&custom_title=%E2%9E%B0%20Ryoukou%20%20Graph%20Data%20%E2%9E%B0" 
     width="100%" 
   />
 </p>
