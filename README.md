@@ -13,7 +13,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Building+scalable+web+applications;Writing+clean+and+maintainable+code;Turning+complex+problems+into+elegant+solutions;Continuously+learning+and+evolving..." 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Initializing+development+environment...;Compiling+source+code+efficiently...;Optimizing+database+performance...;Deploying+robust+digital+solutions...;Commit.+Push.+Innovate." 
   />
 </p>
 
